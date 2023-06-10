@@ -18,7 +18,11 @@ http://127.0.0.1:8000/posts
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/laravel-auth-app/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud/main/Screenshots/Output-04.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud/main/Screenshots/Output-05.png)
 
 
 ## 🔗 www.codehafeez.com
